@@ -1,6 +1,6 @@
 body{
 margin-top:0px;
-background-image:url("../images/Ghost.jpg");
+background-color:#463E3F;
 
 
 
@@ -15,7 +15,7 @@ background-image:url("../images/Ghost.jpg");
 			        height:auto;
             	margin: 0px auto 0 auto;
             		text-align: center;
-			box-shadow:0 0  15px #00FF00;			
+			box-shadow:0 0  15px #FDD017;			
 				
 }
 .header {
@@ -25,8 +25,8 @@ background-color: #3BB9FF;
 }
 .middle {
 width:auto;
-height:65%;
-background-color:#7109AA;
+height:100%;
+background-color:#fff;
 
 }
 .title {
